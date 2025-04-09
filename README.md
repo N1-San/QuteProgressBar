@@ -2,4 +2,4 @@
 
 ## a progress bar with a fun surprise
 
-> made with laravel, just clone the repo and run npm install, use composer or php artisan to run it
+> made with laravel, just clone the repo and use `composer install` and `php artisan serve` to run it
